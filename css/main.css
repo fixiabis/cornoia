@@ -48,6 +48,7 @@ body {
 
 pre {
     text-align: justify;
+    text-indent: 40px;
     white-space: pre-wrap;
     letter-spacing: 2px;
     margin: 10px 0px;
